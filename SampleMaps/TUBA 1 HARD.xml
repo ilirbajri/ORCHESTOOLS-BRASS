@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="TUBA 1 HARD" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="34" LoKey="0" HiKey="37" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tuba/sus/Tuba3_sus_A#0_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.41867" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopStart="46088" LoopXFade="25000" SampleStartMod="50000"
+          LoopEnd="115445" MonolithOffset="0" MonolithLength="180224" SampleRate="44100"/>
+  <sample Root="46" LoKey="38" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tuba/sus/Tuba3_sus_A#1_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.93305" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopStart="38663" LoopXFade="25000" SampleStartMod="50000"
+          LoopEnd="115508" MonolithOffset="180224" MonolithLength="192512"
+          SampleRate="44100"/>
+  <sample Root="39" LoKey="33" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tuba/sus/Tuba3_sus_D#1_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.50123" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopStart="46057" LoopXFade="25000" SampleStartMod="50000"
+          LoopEnd="88674" MonolithOffset="372736" MonolithLength="155648"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="43" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tuba/sus/Tuba3_sus_D2_v3_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.02679" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopStart="42409" LoopXFade="25000" SampleStartMod="50000"
+          LoopEnd="119402" MonolithOffset="528384" MonolithLength="204800"
+          SampleRate="44100"/>
+  <sample Root="29" LoKey="0" HiKey="32" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tuba/sus/Tuba3_sus_F0_v1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.1769" LoopEnabled="1"
+          LoopStart="60615" LoopXFade="25000" SampleStartMod="50000" LoopEnd="137541"
+          MonolithOffset="733184" MonolithLength="176128" SampleRate="44100"/>
+</samplemap>

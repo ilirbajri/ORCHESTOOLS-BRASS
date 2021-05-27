@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="TRUMPETS STRAIGHT 2" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="70" LoKey="65" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/straightM-sus/Sum_SHTrumpet_straightM-sus_A#3_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.61769" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopEnd="297563" LoopStart="100000" LoopXFade="35000"
+          SampleStartMod="50000" MonolithOffset="0" MonolithLength="397312"
+          SampleRate="44100"/>
+  <sample Root="81" LoKey="76" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/straightM-sus/Sum_SHTrumpet_straightM-sus_A4_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.99936" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopEnd="243864" LoopStart="100000" LoopXFade="35000"
+          SampleStartMod="50000" MonolithOffset="397312" MonolithLength="323584"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="0" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/straightM-sus/Sum_SHTrumpet_straightM-sus_D3_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.9548" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopEnd="322750" LoopStart="100000" LoopXFade="35000"
+          SampleStartMod="50000" MonolithOffset="720896" MonolithLength="425984"
+          SampleRate="44100"/>
+  <sample Root="74" LoKey="69" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/straightM-sus/Sum_SHTrumpet_straightM-sus_D4_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.31727" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopEnd="262177" LoopStart="100000" LoopXFade="35000"
+          SampleStartMod="50000" MonolithOffset="1146880" MonolithLength="335872"
+          SampleRate="44100"/>
+  <sample Root="77" LoKey="73" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/straightM-sus/Sum_SHTrumpet_straightM-sus_F4_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.45508" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopEnd="267399" LoopStart="100000" LoopXFade="35000"
+          SampleStartMod="50000" MonolithOffset="1482752" MonolithLength="335872"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="0" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/straightM-sus/Sum_SHTrumpet_straightM-sus_G3_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.88055" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopEnd="333948" LoopStart="100000" LoopXFade="35000"
+          SampleStartMod="50000" MonolithOffset="1818624" MonolithLength="425984"
+          SampleRate="44100"/>
+  <sample Root="70" LoKey="67" HiKey="71" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/stac/Sum_SHTrumpet_stac_A#3_v3_rr1.wav"
+          Duplicate="0" NormalizedPeak="5.33681" Normalized="1" SampleStartMod="5000"
+          LowerVelocityXFade="90" UpperVelocityXFade="0" MonolithOffset="2244608"
+          MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="81" LoKey="76" HiKey="127" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/stac/Sum_SHTrumpet_stac_A4_v3_rr1.wav"
+          Duplicate="0" NormalizedPeak="3.09424" Normalized="1" SampleStartMod="5000"
+          LowerVelocityXFade="90" UpperVelocityXFade="0" MonolithOffset="2314240"
+          MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="84" LoKey="79" HiKey="127" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/stac/Sum_SHTrumpet_stac_C5_v3_rr1.wav"
+          Duplicate="0" NormalizedPeak="1.68751" Normalized="1" SampleStartMod="5000"
+          LowerVelocityXFade="90" UpperVelocityXFade="0" MonolithOffset="2375680"
+          MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="63" LoKey="0" HiKey="64" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/stac/Sum_SHTrumpet_stac_D#3_v3_rr1.wav"
+          Duplicate="0" NormalizedPeak="5.72167" Normalized="1" SampleStartMod="5000"
+          LowerVelocityXFade="90" UpperVelocityXFade="0" MonolithOffset="2441216"
+          MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="74" LoKey="69" HiKey="75" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/stac/Sum_SHTrumpet_stac_D4_v3_rr1.wav"
+          Duplicate="0" NormalizedPeak="2.18468" Normalized="1" SampleStartMod="5000"
+          LowerVelocityXFade="90" UpperVelocityXFade="0" MonolithOffset="2506752"
+          MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="65" LoKey="0" HiKey="66" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/stac/Sum_SHTrumpet_stac_F3_v3_rr1.wav"
+          Duplicate="0" NormalizedPeak="15.9223" Normalized="1" SampleStartMod="5000"
+          LowerVelocityXFade="90" UpperVelocityXFade="0" MonolithOffset="2584576"
+          MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="77" LoKey="72" HiKey="78" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/stac/Sum_SHTrumpet_stac_F4_v3_rr1.wav"
+          Duplicate="0" NormalizedPeak="2.93016" Normalized="1" SampleStartMod="5000"
+          LowerVelocityXFade="0" MonolithOffset="2650112" MonolithLength="69632"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="65" HiKey="68" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/stac/Sum_SHTrumpet_stac_G3_v3_rr1.wav"
+          Duplicate="0" NormalizedPeak="8.19405" Normalized="1" SampleStartMod="5000"
+          LowerVelocityXFade="0" MonolithOffset="2719744" MonolithLength="57344"
+          SampleRate="44100"/>
+</samplemap>

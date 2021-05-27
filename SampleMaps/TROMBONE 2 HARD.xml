@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="TROMBONE 2 HARD" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="46" LoKey="46" HiKey="48" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_A#1_v4_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.51914" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="125163" LoopStart="49449" LoopXFade="15000"
+          UpperVelocityXFade="60" SampleStart="1500" MonolithOffset="0"
+          MonolithLength="163840" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_A#2_v4_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.59497" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="167269" LoopStart="100000" LoopXFade="15000"
+          UpperVelocityXFade="60" SampleStart="1500" MonolithOffset="163840"
+          MonolithLength="212992" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="31" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_A#2_v5_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.25577" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="118731" LoopStart="60378" LoopXFade="15000"
+          Volume="2" LowerVelocityXFade="60" SampleStart="1500" MonolithOffset="376832"
+          MonolithLength="163840" SampleRate="44100"/>
+  <sample Root="45" LoKey="42" HiKey="45" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_A1_v4_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.74875" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="133184" LoopStart="60660" LoopXFade="15000"
+          UpperVelocityXFade="60" SampleStart="1500" MonolithOffset="540672"
+          MonolithLength="180224" SampleRate="44100"/>
+  <sample Root="45" LoKey="0" HiKey="47" LoVel="31" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_A1_v5_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.90371" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="119607" LoopStart="62870" LoopXFade="15000"
+          Volume="2" LowerVelocityXFade="60" SampleStart="1500" MonolithOffset="720896"
+          MonolithLength="155648" SampleRate="44100"/>
+  <sample Root="57" LoKey="56" HiKey="57" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_A2_v4_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.54144" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="148856" LoopStart="88464" LoopXFade="15000"
+          UpperVelocityXFade="60" SampleStart="1500" MonolithOffset="876544"
+          MonolithLength="188416" SampleRate="44100"/>
+  <sample Root="57" LoKey="56" HiKey="57" LoVel="31" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_A2_v5_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.40761" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="104008" LoopStart="60590" LoopXFade="15000"
+          Volume="2" LowerVelocityXFade="60" SampleStart="1500" MonolithOffset="1064960"
+          MonolithLength="155648" SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="60" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_C3_v4_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.79994" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="151726" LoopStart="100000" LoopXFade="15000"
+          UpperVelocityXFade="60" SampleStart="1500" MonolithOffset="1220608"
+          MonolithLength="188416" SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="60" LoVel="31" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_C3_v5_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.47143" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="126488" LoopStart="67973" LoopXFade="15000"
+          Volume="2" LowerVelocityXFade="60" SampleStart="1500" MonolithOffset="1409024"
+          MonolithLength="176128" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_D#2_v4_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.11091" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="145571" LoopStart="79340" LoopXFade="15000"
+          UpperVelocityXFade="60" SampleStart="1500" MonolithOffset="1585152"
+          MonolithLength="184320" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="31" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_D#2_v5_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.39429" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="149770" LoopStart="73052" LoopXFade="15000"
+          Volume="2" LowerVelocityXFade="60" SampleStart="1500" MonolithOffset="1769472"
+          MonolithLength="196608" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="67" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_D#3_v4_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.91781" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="204397" LoopStart="122211" LoopXFade="15000"
+          UpperVelocityXFade="60" SampleStart="1500" MonolithOffset="1966080"
+          MonolithLength="245760" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="67" LoVel="31" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_D#3_v5_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.96959" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="108347" LoopStart="58974" LoopXFade="15000"
+          Volume="2" LowerVelocityXFade="60" SampleStart="1500" MonolithOffset="2211840"
+          MonolithLength="159744" SampleRate="44100"/>
+  <sample Root="50" LoKey="49" HiKey="50" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_D2_v4_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.97929" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="143874" LoopStart="97417" LoopXFade="15000"
+          UpperVelocityXFade="60" SampleStart="1500" MonolithOffset="2371584"
+          MonolithLength="192512" SampleRate="44100"/>
+  <sample Root="50" LoKey="48" HiKey="50" LoVel="31" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_D2_v5_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.99494" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="134643" LoopStart="71294" LoopXFade="15000"
+          Volume="2" LowerVelocityXFade="60" SampleStart="1500" MonolithOffset="2564096"
+          MonolithLength="184320" SampleRate="44100"/>
+  <sample Root="62" LoKey="61" HiKey="62" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_D3_v4_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.22138" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="149635" LoopStart="80917" LoopXFade="15000"
+          UpperVelocityXFade="60" SampleStart="1500" MonolithOffset="2748416"
+          MonolithLength="200704" SampleRate="44100"/>
+  <sample Root="62" LoKey="61" HiKey="62" LoVel="31" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_D3_v5_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.91194" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="115489" LoopStart="59980" LoopXFade="15000"
+          Volume="2" LowerVelocityXFade="60" SampleStart="1500" MonolithOffset="2949120"
+          MonolithLength="212992" SampleRate="44100"/>
+  <sample Root="41" LoKey="0" HiKey="41" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_F1_v4_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.96622" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="111202" LoopStart="48865" LoopXFade="15000"
+          UpperVelocityXFade="60" SampleStart="1500" MonolithOffset="3162112"
+          MonolithLength="184320" SampleRate="44100"/>
+  <sample Root="53" LoKey="52" HiKey="53" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_F2_v4_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.38749" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="154576" LoopStart="100000" LoopXFade="15000"
+          UpperVelocityXFade="60" SampleStart="1500" MonolithOffset="3346432"
+          MonolithLength="245760" SampleRate="44100"/>
+  <sample Root="53" LoKey="52" HiKey="53" LoVel="31" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_F2_v5_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.18981" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="150214" LoopStart="73147" LoopXFade="15000"
+          Volume="2" LowerVelocityXFade="60" SampleStart="1500" MonolithOffset="3592192"
+          MonolithLength="262144" SampleRate="44100"/>
+  <sample Root="65" LoKey="68" HiKey="127" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_F3_v4_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.19112" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="203364" LoopStart="100000" LoopXFade="15000"
+          UpperVelocityXFade="60" SampleStart="1500" MonolithOffset="3854336"
+          MonolithLength="204800" SampleRate="44100"/>
+  <sample Root="65" LoKey="68" HiKey="127" LoVel="31" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_F3_v5_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.2762" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="154474" LoopStart="82614" LoopXFade="15000"
+          Volume="2" LowerVelocityXFade="60" SampleStart="1500" MonolithOffset="4059136"
+          MonolithLength="196608" SampleRate="44100"/>
+  <sample Root="55" LoKey="54" HiKey="55" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_G2_v4_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.45595" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="150570" LoopStart="90932" LoopXFade="15000"
+          UpperVelocityXFade="60" SampleStart="1500" MonolithOffset="4255744"
+          MonolithLength="237568" SampleRate="44100"/>
+  <sample Root="55" LoKey="54" HiKey="55" LoVel="31" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Sustain/Trombone_Sustain_G2_v5_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.46775" SampleStartMod="50000"
+          LoopEnabled="1" LoopEnd="142436" LoopStart="64299" LoopXFade="15000"
+          Volume="3" LowerVelocityXFade="60" SampleStart="1500" MonolithOffset="4493312"
+          MonolithLength="217088" SampleRate="44100"/>
+</samplemap>

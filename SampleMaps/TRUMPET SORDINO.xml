@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="TRUMPET SORDINO" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="58" LoKey="0" HiKey="58" LoVel="0" HiVel="101" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/harmonM-sus/Sum_SHTrumpet_harmonM-sus_A#2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="96.6608" Volume="-5"
+          UpperVelocityXFade="100" LoopEnabled="1" SampleStartMod="50000"
+          LoopEnd="199103" LoopStart="100000" LoopXFade="15000" MonolithOffset="0"
+          MonolithLength="237568" SampleRate="44100"/>
+  <sample Root="58" LoKey="0" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/harmonM-sus/Sum_SHTrumpet_harmonM-sus_A#2_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.4493" Volume="0"
+          LowerVelocityXFade="100" LoopEnabled="1" SampleStartMod="50000"
+          LoopEnd="192674" LoopStart="100000" LoopXFade="15000" MonolithOffset="237568"
+          MonolithLength="266240" SampleRate="44100"/>
+  <sample Root="70" LoKey="69" HiKey="71" LoVel="0" HiVel="101" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/harmonM-sus/Sum_SHTrumpet_harmonM-sus_A#3_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="86.4591" Volume="-5"
+          UpperVelocityXFade="100" LoopEnabled="1" SampleStartMod="50000"
+          LoopEnd="246523" LoopStart="100000" LoopXFade="15000" MonolithOffset="503808"
+          MonolithLength="348160" SampleRate="44100"/>
+  <sample Root="70" LoKey="69" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/harmonM-sus/Sum_SHTrumpet_harmonM-sus_A#3_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.11865" Volume="4"
+          LowerVelocityXFade="100" LoopEnabled="1" SampleStartMod="50000"
+          LoopEnd="257538" LoopStart="115377" LoopXFade="15000" MonolithOffset="851968"
+          MonolithLength="331776" SampleRate="44100"/>
+  <sample Root="81" LoKey="79" HiKey="127" LoVel="0" HiVel="101" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/harmonM-sus/Sum_SHTrumpet_harmonM-sus_A4_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.876" Volume="1"
+          UpperVelocityXFade="100" LoopEnabled="1" SampleStartMod="50000"
+          LoopEnd="253474" LoopStart="100000" LoopXFade="15000" MonolithOffset="1183744"
+          MonolithLength="360448" SampleRate="44100"/>
+  <sample Root="81" LoKey="79" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/harmonM-sus/Sum_SHTrumpet_harmonM-sus_A4_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.89446" Volume="6"
+          LowerVelocityXFade="100" LoopEnabled="1" SampleStartMod="50000"
+          LoopEnd="158907" LoopStart="65813" LoopXFade="15000" MonolithOffset="1544192"
+          MonolithLength="225280" SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="60" LoVel="0" HiVel="101" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/harmonM-sus/Sum_SHTrumpet_harmonM-sus_C3_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="64.3772" Volume="-3"
+          UpperVelocityXFade="100" LoopEnabled="1" SampleStartMod="50000"
+          LoopEnd="230149" LoopStart="100000" LoopXFade="15000" MonolithOffset="1769472"
+          MonolithLength="286720" SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/harmonM-sus/Sum_SHTrumpet_harmonM-sus_C3_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.2857" Volume="0"
+          LowerVelocityXFade="100" LoopEnabled="1" SampleStartMod="50000"
+          LoopEnd="205889" LoopStart="100000" LoopXFade="15000" MonolithOffset="2056192"
+          MonolithLength="266240" SampleRate="44100"/>
+  <sample Root="63" LoKey="61" HiKey="65" LoVel="0" HiVel="101" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/harmonM-sus/Sum_SHTrumpet_harmonM-sus_D#3_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="111.078" Volume="-4"
+          UpperVelocityXFade="100" LoopEnabled="1" SampleStartMod="50000"
+          LoopEnd="179987" LoopStart="100000" LoopXFade="15000" MonolithOffset="2322432"
+          MonolithLength="241664" SampleRate="44100"/>
+  <sample Root="63" LoKey="61" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/harmonM-sus/Sum_SHTrumpet_harmonM-sus_D#3_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="21.431" Volume="-2"
+          LowerVelocityXFade="100" LoopEnabled="1" SampleStartMod="50000"
+          LoopEnd="180018" LoopStart="85115" LoopXFade="15000" MonolithOffset="2564096"
+          MonolithLength="237568" SampleRate="44100"/>
+  <sample Root="74" LoKey="72" HiKey="74" LoVel="0" HiVel="101" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/harmonM-sus/Sum_SHTrumpet_harmonM-sus_D4_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="46.4136" Volume="-3"
+          UpperVelocityXFade="100" LoopEnabled="1" SampleStartMod="50000"
+          LoopEnd="264168" LoopStart="100000" LoopXFade="15000" MonolithOffset="2801664"
+          MonolithLength="405504" SampleRate="44100"/>
+  <sample Root="74" LoKey="72" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/harmonM-sus/Sum_SHTrumpet_harmonM-sus_D4_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.99132" Volume="4"
+          LowerVelocityXFade="100" LoopEnabled="1" SampleStartMod="50000"
+          LoopEnd="239366" LoopStart="100000" LoopXFade="15000" MonolithOffset="3207168"
+          MonolithLength="311296" SampleRate="44100"/>
+  <sample Root="77" LoKey="75" HiKey="78" LoVel="0" HiVel="101" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/harmonM-sus/Sum_SHTrumpet_harmonM-sus_F4_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="21.1953" Volume="1"
+          UpperVelocityXFade="100" LoopEnabled="1" SampleStartMod="50000"
+          LoopEnd="244551" LoopStart="100000" LoopXFade="15000" MonolithOffset="3518464"
+          MonolithLength="331776" SampleRate="44100"/>
+  <sample Root="77" LoKey="75" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/harmonM-sus/Sum_SHTrumpet_harmonM-sus_F4_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.80047" LowerVelocityXFade="100"
+          LoopEnabled="1" SampleStartMod="50000" LoopEnd="229221" LoopStart="100000"
+          LoopXFade="15000" Volume="2" MonolithOffset="3850240" MonolithLength="307200"
+          SampleRate="44100"/>
+  <sample Root="68" LoKey="66" HiKey="68" LoVel="0" HiVel="101" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/harmonM-sus/Sum_SHTrumpet_harmonM-sus_G#3_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="79.7275" Volume="-3"
+          UpperVelocityXFade="100" LoopEnabled="1" SampleStartMod="50000"
+          LoopEnd="181515" LoopStart="100000" LoopXFade="15000" MonolithOffset="4157440"
+          MonolithLength="233472" SampleRate="44100"/>
+  <sample Root="68" LoKey="66" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/harmonM-sus/Sum_SHTrumpet_harmonM-sus_G#3_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.54446" Volume="4"
+          LowerVelocityXFade="100" LoopEnabled="1" SampleStartMod="50000"
+          LoopEnd="181927" LoopStart="100000" LoopXFade="15000" MonolithOffset="4390912"
+          MonolithLength="262144" SampleRate="44100"/>
+</samplemap>

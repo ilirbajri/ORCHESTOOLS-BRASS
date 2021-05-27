@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="HORN 2" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="58" LoKey="55" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Horn/SGHorn_sus_A#2_v2_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.9548" LoopEnd="194257"
+          LoopStart="75962" LoopXFade="15000" LoopEnabled="1" SampleStartMod="50000"
+          MonolithOffset="0" MonolithLength="315392" SampleRate="44100"/>
+  <sample Root="70" LoKey="79" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Horn/SGHorn_sus_A#3_v2_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.1101" LoopEnd="113053"
+          LoopStart="53146" LoopXFade="15000" LoopEnabled="1" SampleStartMod="50000"
+          MonolithOffset="315392" MonolithLength="188416" SampleRate="44100"/>
+  <sample Root="50" LoKey="0" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Horn/SGHorn_sus_D2_v2_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="28.1029" LoopEnd="218632"
+          LoopStart="87367" LoopXFade="15000" LoopEnabled="1" SampleStartMod="50000"
+          MonolithOffset="503808" MonolithLength="339968" SampleRate="44100"/>
+  <sample Root="62" LoKey="61" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Horn/SGHorn_sus_D3_v2_rr3_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.4858" LoopEnd="214990"
+          LoopStart="77544" LoopXFade="15000" LoopEnabled="1" SampleStartMod="50000"
+          MonolithOffset="843776" MonolithLength="327680" SampleRate="44100"/>
+  <sample Root="65" LoKey="64" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Horn/SGHorn_sus_F3_v2_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.4959" LoopEnd="164807"
+          LoopStart="79707" LoopXFade="15000" LoopEnabled="1" SampleStartMod="50000"
+          MonolithOffset="1171456" MonolithLength="241664" SampleRate="44100"/>
+</samplemap>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="TROMBONE XFX VIBRATO" RRGroupAmount="1" MicPositions=";"
+           SaveMode="2">
+  <sample Root="46" LoKey="45" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/vib/tenortbn_vib_A#1_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.68894" LoopEnd="180000"
+          LoopStart="70000" LoopXFade="30000" LoopEnabled="1" SampleStartMod="50000"
+          MonolithOffset="0" MonolithLength="225280" SampleRate="44100"/>
+  <sample Root="58" LoKey="57" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/vib/tenortbn_vib_A#2_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.49986" LoopEnd="180000"
+          LoopStart="70000" LoopXFade="30000" LoopEnabled="1" SampleStartMod="50000"
+          MonolithOffset="225280" MonolithLength="258048" SampleRate="44100"/>
+  <sample Root="48" LoKey="47" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/vib/tenortbn_vib_C2_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.72284" LoopEnd="180000"
+          LoopStart="70000" LoopXFade="30000" LoopEnabled="1" SampleStartMod="50000"
+          MonolithOffset="483328" MonolithLength="233472" SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/vib/tenortbn_vib_C3_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.60102" LoopEnd="180000"
+          LoopStart="70000" LoopXFade="30000" LoopEnabled="1" SampleStartMod="50000"
+          MonolithOffset="716800" MonolithLength="245760" SampleRate="44100"/>
+  <sample Root="51" LoKey="50" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/vib/tenortbn_vib_D#2_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.59397" LoopEnd="180000"
+          LoopStart="70000" LoopXFade="30000" LoopEnabled="1" SampleStartMod="50000"
+          MonolithOffset="962560" MonolithLength="266240" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/vib/tenortbn_vib_D#3_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.64616" LoopEnd="180000"
+          LoopStart="70000" LoopXFade="30000" LoopEnabled="1" SampleStartMod="50000"
+          MonolithOffset="1228800" MonolithLength="249856" SampleRate="44100"/>
+  <sample Root="62" LoKey="61" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/vib/tenortbn_vib_D3_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.6517" LoopEnd="180000"
+          LoopStart="70000" LoopXFade="30000" LoopEnabled="1" SampleStartMod="50000"
+          MonolithOffset="1478656" MonolithLength="241664" SampleRate="44100"/>
+  <sample Root="41" LoKey="0" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/vib/tenortbn_vib_F1_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="26.3408" LoopEnd="180000"
+          LoopStart="70000" LoopXFade="30000" LoopEnabled="1" SampleStartMod="50000"
+          MonolithOffset="1720320" MonolithLength="225280" SampleRate="44100"/>
+  <sample Root="53" LoKey="52" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/vib/tenortbn_vib_F2_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.5126" LoopEnd="180000"
+          LoopStart="70000" LoopXFade="30000" LoopEnabled="1" SampleStartMod="50000"
+          MonolithOffset="1945600" MonolithLength="331776" SampleRate="44100"/>
+  <sample Root="44" LoKey="43" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/vib/tenortbn_vib_G#1_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.5967" LoopEnd="180000"
+          LoopStart="70000" LoopXFade="30000" LoopEnabled="1" SampleStartMod="50000"
+          MonolithOffset="2277376" MonolithLength="237568" SampleRate="44100"/>
+  <sample Root="56" LoKey="55" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/vib/tenortbn_vib_G#2_v1_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.1954" LoopEnd="180000"
+          LoopStart="70000" LoopXFade="30000" LoopEnabled="1" SampleStartMod="50000"
+          MonolithOffset="2514944" MonolithLength="245760" SampleRate="44100"/>
+</samplemap>

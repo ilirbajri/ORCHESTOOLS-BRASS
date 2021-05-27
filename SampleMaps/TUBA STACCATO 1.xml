@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="TUBA STACCATO 1" RRGroupAmount="4" MicPositions=";" SaveMode="2">
+  <sample Root="34" LoKey="0" HiKey="34" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_A#0_v1_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="29.0496" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="0" MonolithLength="36864"
+          SampleRate="44100"/>
+  <sample Root="34" LoKey="0" HiKey="34" LoVel="0" HiVel="90" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_A#0_v1_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.4289" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="36864" MonolithLength="36864"
+          SampleRate="44100"/>
+  <sample Root="34" LoKey="0" HiKey="34" LoVel="0" HiVel="90" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_A#0_v1_rr3_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.3574" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="73728" MonolithLength="40960"
+          SampleRate="44100"/>
+  <sample Root="34" LoKey="0" HiKey="34" LoVel="0" HiVel="90" RRGroup="4"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_A#0_v1_rr4_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.6076" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="114688" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="46" LoKey="44" HiKey="47" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_A#1_v1_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="31.327" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="167936" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="46" LoKey="44" HiKey="47" LoVel="0" HiVel="90" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_A#1_v1_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.7524" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="196608" MonolithLength="32768"
+          SampleRate="44100"/>
+  <sample Root="46" LoKey="44" HiKey="47" LoVel="0" HiVel="90" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_A#1_v1_rr3_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="17.5606" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="229376" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="46" LoKey="44" HiKey="47" LoVel="0" HiVel="90" RRGroup="4"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_A#1_v1_rr4_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.6261" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="258048" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="46" LoKey="44" HiKey="47" LoVel="30" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_A#1_v2_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.95565" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="286720" MonolithLength="45056"
+          SampleRate="44100"/>
+  <sample Root="46" LoKey="44" HiKey="47" LoVel="30" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_A#1_v2_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.23355" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="331776" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="46" LoKey="44" HiKey="47" LoVel="30" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_A#1_v2_rr3_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.50288" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="380928" MonolithLength="40960"
+          SampleRate="44100"/>
+  <sample Root="46" LoKey="44" HiKey="47" LoVel="30" HiVel="127" RRGroup="4"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_A#1_v2_rr4_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.70239" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="421888" MonolithLength="36864"
+          SampleRate="44100"/>
+  <sample Root="39" LoKey="35" HiKey="39" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D#1_v1_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="25.3819" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="458752" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="39" LoKey="35" HiKey="39" LoVel="0" HiVel="90" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D#1_v1_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="24.7119" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="507904" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="39" LoKey="35" HiKey="39" LoVel="0" HiVel="90" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D#1_v1_rr3_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.9648" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="536576" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="39" LoKey="35" HiKey="39" LoVel="0" HiVel="90" RRGroup="4"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D#1_v1_rr4_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.6608" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="565248" MonolithLength="32768"
+          SampleRate="44100"/>
+  <sample Root="39" LoKey="0" HiKey="39" LoVel="30" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D#1_v2_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.40421" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="598016" MonolithLength="57344"
+          SampleRate="44100"/>
+  <sample Root="39" LoKey="0" HiKey="39" LoVel="30" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D#1_v2_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.93835" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="655360" MonolithLength="45056"
+          SampleRate="44100"/>
+  <sample Root="39" LoKey="0" HiKey="39" LoVel="30" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D#1_v2_rr3_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.78522" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="700416" MonolithLength="45056"
+          SampleRate="44100"/>
+  <sample Root="39" LoKey="0" HiKey="39" LoVel="30" HiVel="127" RRGroup="4"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D#1_v2_rr4_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.20708" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="745472" MonolithLength="40960"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="48" HiKey="50" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D2_v1_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="59.148" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="786432" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="48" HiKey="50" LoVel="0" HiVel="90" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D2_v1_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="53.1948" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="815104" MonolithLength="32768"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="48" HiKey="50" LoVel="0" HiVel="90" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D2_v1_rr3_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="55.0723" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="847872" MonolithLength="32768"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="48" HiKey="50" LoVel="0" HiVel="90" RRGroup="4"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D2_v1_rr4_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="43.749" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="880640" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="48" HiKey="50" LoVel="30" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D2_v2_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.2701" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="929792" MonolithLength="32768"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="48" HiKey="50" LoVel="30" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D2_v2_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.8907" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="962560" MonolithLength="32768"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="48" HiKey="50" LoVel="30" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D2_v2_rr3_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.029" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="995328" MonolithLength="32768"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="48" HiKey="50" LoVel="30" HiVel="127" RRGroup="4"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D2_v2_rr4_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.8147" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="1028096" MonolithLength="32768"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="59" HiKey="127" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D3_v1_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.7919" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="1060864" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="59" HiKey="127" LoVel="0" HiVel="90" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D3_v1_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.8973" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="1089536" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="59" HiKey="127" LoVel="0" HiVel="90" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D3_v1_rr3_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.7787" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="1138688" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="59" HiKey="127" LoVel="0" HiVel="90" RRGroup="4"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D3_v1_rr4_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.8973" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="1167360" MonolithLength="45056"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="59" HiKey="127" LoVel="30" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D3_v2_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.7539" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="1212416" MonolithLength="45056"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="59" HiKey="127" LoVel="30" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D3_v2_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.09571" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="1257472" MonolithLength="45056"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="59" HiKey="127" LoVel="30" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D3_v2_rr3_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.22616" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="1302528" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="59" HiKey="127" LoVel="30" HiVel="127" RRGroup="4"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_D3_v2_rr4_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.31948" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="1331200" MonolithLength="36864"
+          SampleRate="44100"/>
+  <sample Root="41" LoKey="40" HiKey="43" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_F1_v1_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="37.1099" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="1368064" MonolithLength="36864"
+          SampleRate="44100"/>
+  <sample Root="41" LoKey="40" HiKey="43" LoVel="0" HiVel="90" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_F1_v1_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="34.8596" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="1404928" MonolithLength="40960"
+          SampleRate="44100"/>
+  <sample Root="41" LoKey="40" HiKey="43" LoVel="0" HiVel="90" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_F1_v1_rr3_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="33.4709" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="1445888" MonolithLength="36864"
+          SampleRate="44100"/>
+  <sample Root="41" LoKey="40" HiKey="43" LoVel="0" HiVel="90" RRGroup="4"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_F1_v1_rr4_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="26.7931" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="1482752" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="41" LoKey="40" HiKey="43" LoVel="30" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_F1_v2_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.7295" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="1531904" MonolithLength="45056"
+          SampleRate="44100"/>
+  <sample Root="41" LoKey="40" HiKey="43" LoVel="30" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_F1_v2_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.342" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="1576960" MonolithLength="36864"
+          SampleRate="44100"/>
+  <sample Root="41" LoKey="40" HiKey="43" LoVel="30" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_F1_v2_rr3_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.95545" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="1613824" MonolithLength="57344"
+          SampleRate="44100"/>
+  <sample Root="41" LoKey="40" HiKey="43" LoVel="30" HiVel="127" RRGroup="4"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_F1_v2_rr4_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.30621" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="1671168" MonolithLength="45056"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="51" HiKey="58" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_F2_v1_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="24.0941" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="1716224" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="51" HiKey="58" LoVel="0" HiVel="90" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_F2_v1_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="25.2645" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="1744896" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="51" HiKey="58" LoVel="0" HiVel="90" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_F2_v1_rr3_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="22.7872" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="1773568" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="51" HiKey="58" LoVel="0" HiVel="90" RRGroup="4"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_F2_v1_rr4_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.6999" SampleStartMod="6000"
+          UpperVelocityXFade="60" MonolithOffset="1802240" MonolithLength="32768"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="51" HiKey="58" LoVel="30" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_F2_v2_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.69418" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="1835008" MonolithLength="45056"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="51" HiKey="58" LoVel="30" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_F2_v2_rr2_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.34873" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="1880064" MonolithLength="36864"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="51" HiKey="58" LoVel="30" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_F2_v2_rr3_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.0484" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="1916928" MonolithLength="40960"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="51" HiKey="58" LoVel="30" HiVel="127" RRGroup="4"
+          FileName="{PROJECT_FOLDER}Tuba/stac/Tuba3_stac_F2_v2_rr4_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.16287" SampleStartMod="6000"
+          LowerVelocityXFade="60" MonolithOffset="1957888" MonolithLength="57344"
+          SampleRate="44100"/>
+</samplemap>

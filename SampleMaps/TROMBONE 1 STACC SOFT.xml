@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="TROMBONE 1 STACC SOFT" RRGroupAmount="2" MicPositions=";"
+           SaveMode="2">
+  <sample Root="34" LoKey="0" HiKey="36" LoVel="0" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_A#0_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="49.2752" UpperVelocityXFade="90"
+          SampleStartMod="5000" Volume="-8" MonolithOffset="0" MonolithLength="45056"
+          SampleRate="44100"/>
+  <sample Root="34" LoKey="0" HiKey="36" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_A#0_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="32.605" LowerVelocityXFade="90"
+          UpperVelocityXFade="0" SampleStartMod="5000" Volume="-1" MonolithOffset="45056"
+          MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="46" LoKey="43" HiKey="48" LoVel="0" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_A#1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="48.4734" UpperVelocityXFade="90"
+          SampleStartMod="5000" Volume="-8" MonolithOffset="98304" MonolithLength="40960"
+          SampleRate="44100"/>
+  <sample Root="46" LoKey="43" HiKey="48" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_A#1_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.195" LowerVelocityXFade="90"
+          UpperVelocityXFade="0" SampleStartMod="5000" MonolithOffset="139264"
+          MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="58" LoKey="55" HiKey="59" LoVel="0" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_A#2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="23.1904" UpperVelocityXFade="90"
+          SampleStartMod="5000" Volume="-8" MonolithOffset="192512" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="58" LoKey="55" HiKey="59" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_A#2_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.9961" LowerVelocityXFade="90"
+          UpperVelocityXFade="0" SampleStartMod="5000" MonolithOffset="241664"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="62" LoKey="60" HiKey="63" LoVel="0" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_D3_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="38.415" UpperVelocityXFade="90"
+          SampleStartMod="5000" Volume="-9" MonolithOffset="286720" MonolithLength="65536"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="60" HiKey="63" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_D3_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.2693" LowerVelocityXFade="90"
+          UpperVelocityXFade="0" SampleStartMod="5000" Volume="-4" MonolithOffset="352256"
+          MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="41" LoKey="37" HiKey="42" LoVel="0" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_F1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="34.8967" UpperVelocityXFade="90"
+          SampleStartMod="5000" Volume="-8" MonolithOffset="417792" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="41" LoKey="37" HiKey="42" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_F1_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.825" LowerVelocityXFade="90"
+          UpperVelocityXFade="0" SampleStartMod="5000" Volume="-8" MonolithOffset="471040"
+          MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="53" LoKey="49" HiKey="54" LoVel="0" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_F2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="70.6207" UpperVelocityXFade="90"
+          SampleStartMod="5000" Volume="-8" MonolithOffset="532480" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="49" HiKey="54" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_F2_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.6082" LowerVelocityXFade="90"
+          UpperVelocityXFade="0" SampleStartMod="5000" MonolithOffset="581632"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="65" LoKey="64" HiKey="127" LoVel="0" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_F3_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.686" UpperVelocityXFade="90"
+          SampleStartMod="5000" Volume="-8" MonolithOffset="626688" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="65" LoKey="64" HiKey="127" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_F3_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.14286" LowerVelocityXFade="90"
+          UpperVelocityXFade="0" SampleStartMod="5000" MonolithOffset="679936"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="34" LoKey="0" HiKey="36" LoVel="0" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_A#0_v1_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="49.2752" UpperVelocityXFade="90"
+          SampleStartMod="5000" Volume="-8" MonolithOffset="729088" MonolithLength="45056"
+          SampleRate="44100"/>
+  <sample Root="34" LoKey="0" HiKey="36" LoVel="0" HiVel="100" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_A#0_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="48.4734" UpperVelocityXFade="90"
+          SampleStartMod="5000" Volume="-1" MonolithOffset="774144" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="34" LoKey="0" HiKey="36" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_A#0_v2_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="32.605" LowerVelocityXFade="90"
+          UpperVelocityXFade="0" SampleStartMod="5000" Volume="-1" MonolithOffset="823296"
+          MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="34" LoKey="0" HiKey="36" LoVel="11" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_A#0_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="31.9688" LowerVelocityXFade="90"
+          UpperVelocityXFade="0" SampleStartMod="5000" Volume="-1" MonolithOffset="876544"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="46" LoKey="43" HiKey="48" LoVel="0" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_A#1_v1_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="48.4734" UpperVelocityXFade="90"
+          SampleStartMod="5000" Volume="-8" MonolithOffset="921600" MonolithLength="40960"
+          SampleRate="44100"/>
+  <sample Root="46" LoKey="43" HiKey="48" LoVel="0" HiVel="100" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_A#1_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="38.9631" UpperVelocityXFade="90"
+          SampleStartMod="5000" MonolithOffset="962560" MonolithLength="69632"
+          SampleRate="44100"/>
+  <sample Root="46" LoKey="43" HiKey="48" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_A#1_v2_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="12.195" LowerVelocityXFade="90"
+          UpperVelocityXFade="0" SampleStartMod="5000" MonolithOffset="1032192"
+          MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="46" LoKey="43" HiKey="48" LoVel="11" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_A#1_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.4814" LowerVelocityXFade="90"
+          UpperVelocityXFade="0" SampleStartMod="5000" MonolithOffset="1085440"
+          MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="58" LoKey="55" HiKey="59" LoVel="0" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_A#2_v1_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="23.1904" UpperVelocityXFade="90"
+          SampleStartMod="5000" Volume="-8" MonolithOffset="1159168" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="58" LoKey="55" HiKey="59" LoVel="0" HiVel="100" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_A#2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="21.389" UpperVelocityXFade="90"
+          SampleStartMod="5000" MonolithOffset="1208320" MonolithLength="77824"
+          SampleRate="44100"/>
+  <sample Root="58" LoKey="55" HiKey="59" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_A#2_v2_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="7.9961" LowerVelocityXFade="90"
+          UpperVelocityXFade="0" SampleStartMod="5000" MonolithOffset="1286144"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="58" LoKey="55" HiKey="59" LoVel="11" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_A#2_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.16397" LowerVelocityXFade="90"
+          UpperVelocityXFade="0" SampleStartMod="5000" MonolithOffset="1331200"
+          MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="62" LoKey="60" HiKey="63" LoVel="0" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_D3_v1_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="38.415" UpperVelocityXFade="90"
+          SampleStartMod="5000" Volume="-9" MonolithOffset="1409024" MonolithLength="65536"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="60" HiKey="63" LoVel="0" HiVel="100" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_D3_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="36.2478" UpperVelocityXFade="90"
+          SampleStartMod="5000" Volume="-5" MonolithOffset="1474560" MonolithLength="45056"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="60" HiKey="63" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_D3_v2_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="15.2693" LowerVelocityXFade="90"
+          UpperVelocityXFade="0" SampleStartMod="5000" Volume="-4" MonolithOffset="1519616"
+          MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="62" LoKey="60" HiKey="63" LoVel="11" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_D3_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.1074" LowerVelocityXFade="90"
+          UpperVelocityXFade="0" SampleStartMod="5000" MonolithOffset="1585152"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="41" LoKey="37" HiKey="42" LoVel="0" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_F1_v1_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="34.8967" UpperVelocityXFade="90"
+          SampleStartMod="5000" Volume="-8" MonolithOffset="1634304" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="41" LoKey="37" HiKey="42" LoVel="0" HiVel="100" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_F1_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="33.4367" UpperVelocityXFade="90"
+          SampleStartMod="5000" MonolithOffset="1687552" MonolithLength="57344"
+          SampleRate="44100"/>
+  <sample Root="41" LoKey="37" HiKey="42" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_F1_v2_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="12.825" LowerVelocityXFade="90"
+          UpperVelocityXFade="0" SampleStartMod="5000" Volume="-8" MonolithOffset="1744896"
+          MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="41" LoKey="37" HiKey="42" LoVel="11" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_F1_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.3857" LowerVelocityXFade="90"
+          UpperVelocityXFade="0" SampleStartMod="5000" MonolithOffset="1806336"
+          MonolithLength="81920" SampleRate="44100"/>
+  <sample Root="53" LoKey="49" HiKey="54" LoVel="0" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_F2_v1_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="70.6207" UpperVelocityXFade="90"
+          SampleStartMod="5000" Volume="-8" MonolithOffset="1888256" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="49" HiKey="54" LoVel="0" HiVel="100" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_F2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="67.8427" UpperVelocityXFade="90"
+          SampleStartMod="5000" Volume="-4" MonolithOffset="1937408" MonolithLength="69632"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="49" HiKey="54" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_F2_v2_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="16.6082" LowerVelocityXFade="90"
+          UpperVelocityXFade="0" SampleStartMod="5000" MonolithOffset="2007040"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="53" LoKey="49" HiKey="54" LoVel="11" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_F2_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.2863" LowerVelocityXFade="90"
+          UpperVelocityXFade="0" SampleStartMod="5000" MonolithOffset="2052096"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="65" LoKey="64" HiKey="127" LoVel="0" HiVel="100" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_F3_v1_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="15.686" UpperVelocityXFade="90"
+          SampleStartMod="5000" Volume="-8" MonolithOffset="2101248" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="65" LoKey="64" HiKey="127" LoVel="0" HiVel="100" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_F3_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.8378" UpperVelocityXFade="90"
+          SampleStartMod="5000" MonolithOffset="2154496" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="65" LoKey="64" HiKey="127" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_F3_v2_rr1.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="9.14286" LowerVelocityXFade="90"
+          UpperVelocityXFade="0" SampleStartMod="5000" MonolithOffset="2203648"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="65" LoKey="64" HiKey="127" LoVel="11" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/stac/tenortbn_stac_F3_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.83736" LowerVelocityXFade="90"
+          UpperVelocityXFade="0" SampleStartMod="5000" MonolithOffset="2252800"
+          MonolithLength="53248" SampleRate="44100"/>
+</samplemap>

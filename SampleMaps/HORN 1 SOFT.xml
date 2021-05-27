@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="HORN 1 SOFT" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="57" LoKey="55" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/sus/MOHorn_sus_A2_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.8921" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" LoopEnabled="1" LoopEnd="450000" LoopStart="100000"
+          LoopXFade="15000" SampleStartMod="50000" MonolithOffset="0" MonolithLength="638976"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/sus/MOHorn_sus_C3_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.04444" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" LoopEnabled="1" LoopEnd="450000" LoopStart="100000"
+          LoopXFade="15000" SampleStartMod="50000" MonolithOffset="638976"
+          MonolithLength="561152" SampleRate="44100"/>
+  <sample Root="50" LoKey="0" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/sus/MOHorn_sus_D2_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="26.1308" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" LoopEnabled="1" LoopEnd="450000" LoopStart="100000"
+          LoopXFade="15000" SampleStartMod="50000" MonolithOffset="1200128"
+          MonolithLength="647168" SampleRate="44100"/>
+  <sample Root="74" LoKey="64" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/sus/MOHorn_sus_D4_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.62796" LoopEnabled="1"
+          LoopEnd="265955" LoopStart="100000" LoopXFade="15000" SampleStartMod="50000"
+          MonolithOffset="1847296" MonolithLength="364544" SampleRate="44100"/>
+  <sample Root="53" LoKey="52" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/sus/MOHorn_sus_F2_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.2622" LowerVelocityXFade="0"
+          UpperVelocityXFade="0" LoopEnabled="1" LoopEnd="450000" LoopStart="100000"
+          LoopXFade="15000" SampleStartMod="50000" MonolithOffset="2211840"
+          MonolithLength="643072" SampleRate="44100"/>
+  <sample Root="77" LoKey="75" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/sus/MOHorn_sus_F4_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.57028" LoopEnabled="1"
+          LoopEnd="249651" LoopStart="126217" LoopXFade="15000" SampleStartMod="50000"
+          SampleStart="3712" MonolithOffset="2854912" MonolithLength="372736"
+          SampleRate="44100"/>
+</samplemap>

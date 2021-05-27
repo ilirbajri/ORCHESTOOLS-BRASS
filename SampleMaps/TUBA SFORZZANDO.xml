@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="TUBA SFORZZANDO" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="34" LoKey="0" HiKey="36" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Tuba/Tuba3_sfz_A#0_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.38625" SampleStartMod="30000"
+          LoopEnabled="1" LoopEnd="137374" LoopStart="72038" LoopXFade="30000"
+          MonolithOffset="0" MonolithLength="225280" SampleRate="44100"/>
+  <sample Root="46" LoKey="42" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Tuba/Tuba3_sfz_A#1_rr2_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.91123" LoopEnabled="1"
+          LoopEnd="170979" LoopStart="70318" LoopXFade="30000" SampleStartMod="30000"
+          MonolithOffset="225280" MonolithLength="385024" SampleRate="44100"/>
+  <sample Root="39" LoKey="37" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Tuba/Tuba3_sfz_D#1_rr1_Mid.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.62678" LoopEnabled="1"
+          LoopEnd="178742" LoopStart="70841" LoopXFade="30000" SampleStartMod="30000"
+          MonolithOffset="610304" MonolithLength="262144" SampleRate="44100"/>
+</samplemap>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="HORN MUTED STACCATO 1" RRGroupAmount="2" MicPositions=";"
+           SaveMode="2">
+  <sample Root="46" LoKey="44" HiKey="46" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_A#1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="45.8936" SampleStartMod="6000"
+          MonolithOffset="0" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="46" LoKey="44" HiKey="47" LoVel="41" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_A#1_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="29.735" SampleStartMod="6000"
+          MonolithOffset="57344" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="46" LoKey="44" HiKey="47" LoVel="41" HiVel="84" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_A#1_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="28.6183" SampleStartMod="6000"
+          MonolithOffset="102400" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="46" LoKey="44" HiKey="47" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_A#1_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.2129" SampleStartMod="6000"
+          MonolithOffset="155648" MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="46" LoKey="44" HiKey="47" LoVel="85" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_A#1_v3_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.1153" SampleStartMod="6000"
+          MonolithOffset="221184" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="33" LoKey="0" HiKey="33" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_A0_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="21.1953" SampleStartMod="6000"
+          MonolithOffset="274432" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="33" LoKey="0" HiKey="33" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_A0_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.944" SampleStartMod="6000"
+          MonolithOffset="335872" MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="57" LoKey="55" HiKey="57" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_A2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.9263" SampleStartMod="6000"
+          MonolithOffset="413696" MonolithLength="81920" SampleRate="44100"/>
+  <sample Root="57" LoKey="55" HiKey="57" LoVel="0" HiVel="40" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_A2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.99725" SampleStartMod="6000"
+          MonolithOffset="495616" MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="57" LoKey="55" HiKey="57" LoVel="41" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_A2_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.45036" SampleStartMod="6000"
+          MonolithOffset="573440" MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="57" LoKey="55" HiKey="57" LoVel="41" HiVel="84" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_A2_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.06349" SampleStartMod="6000"
+          MonolithOffset="638976" MonolithLength="102400" SampleRate="44100"/>
+  <sample Root="57" LoKey="55" HiKey="57" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_A2_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.11012" SampleStartMod="6000"
+          MonolithOffset="741376" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="57" LoKey="55" HiKey="57" LoVel="85" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_A2_v3_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.07721" SampleStartMod="6000"
+          MonolithOffset="811008" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="36" LoKey="34" HiKey="36" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_C1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="22.9307" SampleStartMod="6000"
+          MonolithOffset="897024" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="36" LoKey="34" HiKey="36" LoVel="0" HiVel="40" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_C1_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="21.8745" SampleStartMod="6000"
+          MonolithOffset="954368" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="36" LoKey="34" HiKey="36" LoVel="41" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_C1_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.8653" SampleStartMod="6000"
+          MonolithOffset="1015808" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="36" LoKey="34" HiKey="36" LoVel="41" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_C1_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.4926" SampleStartMod="6000"
+          MonolithOffset="1073152" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="60" LoKey="58" HiKey="65" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_C3_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.0967" SampleStartMod="6000"
+          MonolithOffset="1130496" MonolithLength="81920" SampleRate="44100"/>
+  <sample Root="60" LoKey="58" HiKey="65" LoVel="0" HiVel="40" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_C3_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.1323" SampleStartMod="6000"
+          MonolithOffset="1212416" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="60" LoKey="58" HiKey="65" LoVel="41" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_C3_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.94387" SampleStartMod="6000"
+          MonolithOffset="1282048" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="60" LoKey="58" HiKey="65" LoVel="41" HiVel="84" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_C3_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.74623" SampleStartMod="6000"
+          MonolithOffset="1314816" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="60" LoKey="58" HiKey="65" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_C3_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.30209" SampleStartMod="6000"
+          MonolithOffset="1363968" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="60" LoKey="58" HiKey="65" LoVel="85" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_C3_v3_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.27888" SampleStartMod="6000"
+          MonolithOffset="1437696" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="39" LoKey="37" HiKey="40" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_D#1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.48423" SampleStartMod="6000"
+          MonolithOffset="1511424" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="39" LoKey="37" HiKey="40" LoVel="0" HiVel="40" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_D#1_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.06101" SampleStartMod="6000"
+          MonolithOffset="1568768" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="39" LoKey="37" HiKey="40" LoVel="41" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_D#1_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.81531" SampleStartMod="6000"
+          MonolithOffset="1622016" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="39" LoKey="37" HiKey="40" LoVel="41" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_D#1_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.45166" SampleStartMod="6000"
+          MonolithOffset="1683456" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="50" LoKey="47" HiKey="50" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_D2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="26.1516" SampleStartMod="6000"
+          MonolithOffset="1753088" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="50" LoKey="44" HiKey="50" LoVel="0" HiVel="40" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_D2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="22.6768" SampleStartMod="6000"
+          MonolithOffset="1806336" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="50" LoKey="48" HiKey="50" LoVel="41" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_D2_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.4533" SampleStartMod="6000"
+          MonolithOffset="1863680" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="50" LoKey="48" HiKey="50" LoVel="41" HiVel="84" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_D2_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.08204" SampleStartMod="6000"
+          MonolithOffset="1921024" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="50" LoKey="48" HiKey="50" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_D2_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.87872" SampleStartMod="6000"
+          MonolithOffset="1994752" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="50" LoKey="48" HiKey="50" LoVel="85" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_D2_v3_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.8871" SampleStartMod="6000"
+          MonolithOffset="2031616" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="74" LoKey="66" HiKey="74" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_D4_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.2355" SampleStartMod="6000"
+          MonolithOffset="2105344" MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="74" LoKey="66" HiKey="74" LoVel="0" HiVel="40" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_D4_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.66886" SampleStartMod="6000"
+          MonolithOffset="2170880" MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="74" LoKey="66" HiKey="74" LoVel="41" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_D4_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.11297" SampleStartMod="6000"
+          MonolithOffset="2236416" MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="74" LoKey="66" HiKey="74" LoVel="41" HiVel="84" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_D4_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.08184" SampleStartMod="6000"
+          MonolithOffset="2301952" MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="74" LoKey="66" HiKey="74" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_D4_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.16691" SampleStartMod="6000"
+          MonolithOffset="2379776" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="74" LoKey="66" HiKey="127" LoVel="85" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_D4_v3_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1" SampleStartMod="6000"
+          MonolithOffset="2433024" MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="53" LoKey="51" HiKey="54" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_F2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.9688" SampleStartMod="6000"
+          MonolithOffset="2498560" MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="53" LoKey="51" HiKey="54" LoVel="0" HiVel="40" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_F2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.2622" SampleStartMod="6000"
+          MonolithOffset="2576384" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="53" LoKey="51" HiKey="54" LoVel="41" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_F2_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.67041" SampleStartMod="6000"
+          MonolithOffset="2625536" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="53" LoKey="51" HiKey="54" LoVel="41" HiVel="84" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_F2_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.24867" SampleStartMod="6000"
+          MonolithOffset="2678784" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="53" LoKey="51" HiKey="54" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_F2_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.07363" SampleStartMod="6000"
+          MonolithOffset="2748416" MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="53" LoKey="51" HiKey="54" LoVel="85" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_F2_v3_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.03015" SampleStartMod="6000"
+          MonolithOffset="2826240" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="77" LoKey="75" HiKey="127" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_F4_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.5442" SampleStartMod="6000"
+          MonolithOffset="2883584" MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="77" LoKey="75" HiKey="127" LoVel="0" HiVel="40" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_F4_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.52254" SampleStartMod="6000"
+          MonolithOffset="2949120" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="77" LoKey="75" HiKey="127" LoVel="41" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_F4_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.06608" SampleStartMod="6000"
+          MonolithOffset="3018752" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="77" LoKey="75" HiKey="127" LoVel="41" HiVel="84" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_F4_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1" SampleStartMod="6000"
+          MonolithOffset="3059712" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="77" LoKey="75" HiKey="127" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_F4_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1" SampleStartMod="6000"
+          MonolithOffset="3133440" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="43" LoKey="41" HiKey="43" LoVel="0" HiVel="40" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_G1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.9467" SampleStartMod="6000"
+          MonolithOffset="3178496" MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="43" LoKey="41" HiKey="43" LoVel="0" HiVel="40" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_G1_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.3502" SampleStartMod="6000"
+          MonolithOffset="3244032" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="43" LoKey="41" HiKey="43" LoVel="41" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_G1_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.43519" SampleStartMod="6000"
+          MonolithOffset="3313664" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="43" LoKey="41" HiKey="43" LoVel="41" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}F Horn/stac/MOHorn_stac_G1_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.28005" SampleStartMod="6000"
+          MonolithOffset="3366912" MonolithLength="49152" SampleRate="44100"/>
+</samplemap>

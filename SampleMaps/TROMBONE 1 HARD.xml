@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="TROMBONE 1 HARD" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="34" LoKey="0" HiKey="34" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/sus/tenortbn_sus_A#0_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.3408" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopStart="41120" LoopXFade="20000" LoopEnd="126596"
+          SampleStartMod="50000" Volume="3" MonolithOffset="0" MonolithLength="184320"
+          SampleRate="44100"/>
+  <sample Root="46" LoKey="44" HiKey="47" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/sus/tenortbn_sus_A#1_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.30288" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopStart="83318" LoopXFade="20000" LoopEnd="191778"
+          SampleStartMod="50000" Volume="3" MonolithOffset="184320" MonolithLength="233472"
+          SampleRate="44100"/>
+  <sample Root="37" LoKey="35" HiKey="37" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/sus/tenortbn_sus_C#1_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="30.7392" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopStart="61042" LoopXFade="20000" LoopEnd="156080"
+          SampleStartMod="50000" Volume="3" MonolithOffset="417792" MonolithLength="200704"
+          SampleRate="44100"/>
+  <sample Root="61" LoKey="57" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/sus/tenortbn_sus_C#3_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.71721" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopStart="138456" LoopXFade="20000" LoopEnd="262247"
+          SampleStartMod="50000" Volume="3" MonolithOffset="618496" MonolithLength="344064"
+          SampleRate="44100"/>
+  <sample Root="39" LoKey="38" HiKey="39" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/sus/tenortbn_sus_D#1_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="17.7508" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopStart="69238" LoopXFade="20000" LoopEnd="160909"
+          SampleStartMod="50000" Volume="3" MonolithOffset="962560" MonolithLength="221184"
+          SampleRate="44100"/>
+  <sample Root="63" LoKey="62" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/sus/tenortbn_sus_D#3_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.0177" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopStart="59545" LoopXFade="20000" LoopEnd="190700"
+          SampleStartMod="50000" Volume="4" MonolithOffset="1183744" MonolithLength="311296"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="48" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/sus/tenortbn_sus_D2_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.5025" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopStart="100000" LoopXFade="20000" LoopEnd="230665"
+          SampleStartMod="50000" Volume="3" MonolithOffset="1495040" MonolithLength="290816"
+          SampleRate="44100"/>
+  <sample Root="41" LoKey="40" HiKey="43" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/sus/tenortbn_sus_F1_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.1067" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopStart="100000" LoopXFade="20000" LoopEnd="227993"
+          SampleStartMod="50000" Volume="3" MonolithOffset="1785856" MonolithLength="303104"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="51" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/sus/tenortbn_sus_F2_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.37" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopStart="100000" LoopXFade="20000" LoopEnd="211506"
+          SampleStartMod="50000" Volume="4" MonolithOffset="2088960" MonolithLength="278528"
+          SampleRate="44100"/>
+  <sample Root="65" LoKey="64" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Tenor Trombone/sus/tenortbn_sus_F3_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.38947" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopStart="100000" LoopXFade="20000" LoopEnd="227388"
+          SampleStartMod="50000" Volume="3" MonolithOffset="2367488" MonolithLength="327680"
+          SampleRate="44100"/>
+</samplemap>

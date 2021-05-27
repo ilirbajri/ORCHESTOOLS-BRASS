@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="TROMBONE SHORT 2" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="46" LoKey="0" HiKey="46" LoVel="0" HiVel="110" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_A#1_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.04311" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="0" MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="46" LoKey="0" HiKey="46" LoVel="0" HiVel="110" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_A#1_v2_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.75226" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="24576" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="46" LoKey="0" HiKey="46" LoVel="32" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_A#1_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.12208" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="61440" MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="46" LoKey="0" HiKey="46" LoVel="32" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_A#1_v3_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.09852" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="86016" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="110" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_A#2_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.32624" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="131072" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="110" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_A#2_v2_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.14406" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="180224" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="32" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_A#2_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.0508" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="221184" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="32" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_A#2_v3_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.07098" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="241664" MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="57" LoKey="56" HiKey="57" LoVel="0" HiVel="110" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_A2_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.10778" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="266240" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="57" LoKey="56" HiKey="57" LoVel="0" HiVel="110" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_A2_v2_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.71429" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="311296" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="57" LoKey="56" HiKey="57" LoVel="32" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_A2_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.07535" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="352256" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="57" LoKey="56" HiKey="57" LoVel="32" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_A2_v3_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.06016" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="401408" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="48" LoKey="47" HiKey="48" LoVel="0" HiVel="110" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_C2_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.32488" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="446464" MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="48" LoKey="47" HiKey="48" LoVel="0" HiVel="110" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_C2_v2_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.90204" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="471040" MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="48" LoKey="47" HiKey="48" LoVel="32" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_C2_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.06989" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="495616" MonolithLength="16384" SampleRate="44100"/>
+  <sample Root="48" LoKey="47" HiKey="48" LoVel="32" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_C2_v3_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.07558" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="512000" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="60" LoVel="0" HiVel="110" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_C3_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.99428" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="552960" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="60" LoVel="0" HiVel="110" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_C3_v2_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.26759" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="602112" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="60" LoVel="32" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_C3_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.07257" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="647168" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="60" LoVel="32" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_C3_v3_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.07945" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="696320" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="110" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_D#2_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.15298" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="745472" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="110" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_D#2_v2_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.76027" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="778240" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="32" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_D#2_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.05511" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="815104" MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="32" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_D#2_v3_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.05736" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="843776" MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="110" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_D#3_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.6669" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="872448" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="110" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_D#3_v2_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.75062" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="925696" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="32" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_D#3_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.10513" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="974848" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="32" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_D#3_v3_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.06403" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="1019904" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="50" LoKey="49" HiKey="50" LoVel="0" HiVel="110" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_D2_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.63487" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="1060864" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="50" LoKey="49" HiKey="50" LoVel="0" HiVel="110" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_D2_v2_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.35815" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="1101824" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="50" LoKey="49" HiKey="50" LoVel="32" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_D2_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.10071" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="1155072" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="50" LoKey="49" HiKey="50" LoVel="32" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_D2_v3_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.06201" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="1200128" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="62" LoKey="61" HiKey="62" LoVel="0" HiVel="110" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_D3_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.93293" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="1241088" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="62" LoKey="61" HiKey="62" LoVel="0" HiVel="110" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_D3_v2_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.76131" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="1290240" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="62" LoKey="61" HiKey="62" LoVel="32" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_D3_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.0994" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="1339392" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="62" LoKey="61" HiKey="62" LoVel="32" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_D3_v3_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.06867" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="1388544" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="53" LoKey="52" HiKey="53" LoVel="0" HiVel="110" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_F2_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.734" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="1437696" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="53" LoKey="52" HiKey="53" LoVel="0" HiVel="110" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_F2_v2_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.54997" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="1478656" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="53" LoKey="52" HiKey="53" LoVel="32" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_F2_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.07787" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="1515520" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="53" LoKey="52" HiKey="53" LoVel="32" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_F2_v3_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.08825" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="1564672" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="65" LoKey="64" HiKey="127" LoVel="0" HiVel="110" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_F3_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.17126" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="1617920" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="65" LoKey="64" HiKey="127" LoVel="0" HiVel="110" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_F3_v2_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.15122" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="1667072" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="65" LoKey="64" HiKey="127" LoVel="32" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_F3_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.08658" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="1720320" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="65" LoKey="64" HiKey="127" LoVel="32" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_F3_v3_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.08181" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="1769472" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="55" LoKey="54" HiKey="55" LoVel="0" HiVel="110" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_G2_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.3466" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="1818624" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="55" LoKey="54" HiKey="55" LoVel="0" HiVel="110" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_G2_v2_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.91815" SampleStartMod="4000"
+          LowerVelocityXFade="0" UpperVelocityXFade="80" SampleStart="3500"
+          Volume="-2" MonolithOffset="1855488" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="55" LoKey="54" HiKey="55" LoVel="32" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_G2_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.06289" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="1896448" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="55" LoKey="54" HiKey="55" LoVel="32" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}OldTrombone/Short/Trombone_Short_G2_v3_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.06747" SampleStartMod="4000"
+          LowerVelocityXFade="80" Volume="3" UpperVelocityXFade="0" SampleStart="3500"
+          MonolithOffset="1945600" MonolithLength="32768" SampleRate="44100"/>
+</samplemap>

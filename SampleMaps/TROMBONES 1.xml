@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="TROMBONES 1" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="46" LoKey="43" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Trombone ensemble/7TbnEns_sus_A#1_v3_rr1_Sum.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.41654" LoopEnd="110573"
+          LoopStart="36086" LoopXFade="30000" LoopEnabled="1" SampleStartMod="50000"
+          Volume="-5" MonolithOffset="0" MonolithLength="184320" SampleRate="44100"/>
+  <sample Root="58" LoKey="55" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Trombone ensemble/7TbnEns_sus_A#2_v3_rr1_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.50501" LoopEnd="141309"
+          LoopStart="73953" LoopXFade="15000" LoopEnabled="1" SampleStartMod="50000"
+          Volume="3" MonolithOffset="184320" MonolithLength="221184" SampleRate="44100"/>
+  <sample Root="70" LoKey="73" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Trombone ensemble/7TbnEns_sus_A#3_v3_rr1_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="1.48655" LoopEnd="144250"
+          LoopStart="63630" LoopXFade="15000" LoopEnabled="1" SampleStartMod="50000"
+          Volume="3" SampleStart="0" MonolithOffset="405504" MonolithLength="249856"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Trombone ensemble/7TbnEns_sus_C3_v3_rr1_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.57222" LoopEnd="155576"
+          LoopStart="83771" LoopXFade="15000" LoopEnabled="1" SampleStartMod="50000"
+          Volume="3" MonolithOffset="655360" MonolithLength="241664" SampleRate="44100"/>
+  <sample Root="42" LoKey="0" HiKey="45" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Trombone ensemble/7TbnEns_sus_F#1_v3_rr1_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="6.72164" LoopEnd="149093"
+          LoopStart="81667" LoopXFade="15000" LoopEnabled="1" SampleStartMod="50000"
+          Volume="3" MonolithOffset="897024" MonolithLength="233472" SampleRate="44100"/>
+  <sample Root="53" LoKey="46" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Trombone ensemble/7TbnEns_sus_F2_v3_rr1_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="3.58708" LoopEnd="158783"
+          LoopStart="71124" LoopXFade="15000" LoopEnabled="1" SampleStartMod="50000"
+          Volume="3" MonolithOffset="1130496" MonolithLength="249856" SampleRate="44100"/>
+  <sample Root="65" LoKey="64" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Extra/Trombone ensemble/7TbnEns_sus_F3_v3_rr1_Sum.wav"
+          Duplicate="1" Normalized="1" NormalizedPeak="2.23672" LoopEnd="177195"
+          LoopStart="131102" LoopXFade="15000" LoopEnabled="1" SampleStartMod="50000"
+          Volume="3" MonolithOffset="1380352" MonolithLength="221184" SampleRate="44100"/>
+</samplemap>

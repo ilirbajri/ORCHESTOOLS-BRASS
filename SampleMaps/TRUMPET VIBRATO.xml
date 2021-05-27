@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="TRUMPET VIBRATO" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="70" LoKey="68" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/susvib/Sum_SHTrumpet_susvib_A#3_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.04688" LowerVelocityXFade="0"
+          SampleStartMod="50000" LoopEnabled="1" LoopEnd="159146" LoopStart="84082"
+          LoopXFade="15000" MonolithOffset="0" MonolithLength="233472"
+          SampleRate="44100"/>
+  <sample Root="57" LoKey="54" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/susvib/Sum_SHTrumpet_susvib_A2_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.4416" LowerVelocityXFade="0"
+          SampleStartMod="50000" LoopEnabled="1" LoopEnd="148431" LoopStart="81661"
+          LoopXFade="15000" MonolithOffset="233472" MonolithLength="192512"
+          SampleRate="44100"/>
+  <sample Root="81" LoKey="78" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/susvib/Sum_SHTrumpet_susvib_A4_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.28732" LowerVelocityXFade="0"
+          SampleStartMod="50000" LoopEnabled="1" LoopEnd="200000" LoopStart="100000"
+          LoopXFade="15000" MonolithOffset="425984" MonolithLength="241664"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="58" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/susvib/Sum_SHTrumpet_susvib_C3_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.34641" LowerVelocityXFade="0"
+          SampleStartMod="50000" LoopEnabled="1" LoopEnd="170420" LoopStart="100000"
+          LoopXFade="15000" MonolithOffset="667648" MonolithLength="208896"
+          SampleRate="44100"/>
+  <sample Root="84" LoKey="82" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/susvib/Sum_SHTrumpet_susvib_C5_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.68889" LowerVelocityXFade="0"
+          SampleStartMod="50000" LoopEnabled="1" LoopEnd="200000" LoopStart="100000"
+          LoopXFade="15000" MonolithOffset="876544" MonolithLength="327680"
+          SampleRate="44100"/>
+  <sample Root="63" LoKey="61" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/susvib/Sum_SHTrumpet_susvib_D#3_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.57569" LowerVelocityXFade="0"
+          SampleStartMod="50000" LoopEnabled="1" LoopEnd="177083" LoopStart="117139"
+          LoopXFade="30000" MonolithOffset="1204224" MonolithLength="221184"
+          SampleRate="44100"/>
+  <sample Root="74" LoKey="71" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/susvib/Sum_SHTrumpet_susvib_D4_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.93373" LowerVelocityXFade="0"
+          SampleStartMod="50000" LoopEnabled="1" LoopEnd="159694" LoopStart="93179"
+          LoopXFade="15000" MonolithOffset="1425408" MonolithLength="229376"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="0" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/susvib/Sum_SHTrumpet_susvib_F2_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.6903" LowerVelocityXFade="0"
+          SampleStartMod="50000" LoopEnabled="1" LoopEnd="221993" LoopStart="125488"
+          LoopXFade="15000" MonolithOffset="1654784" MonolithLength="266240"
+          SampleRate="44100"/>
+  <sample Root="65" LoKey="64" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/susvib/Sum_SHTrumpet_susvib_F3_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.51588" LowerVelocityXFade="0"
+          SampleStartMod="50000" LoopEnabled="1" LoopEnd="156760" LoopStart="86723"
+          LoopXFade="15000" SampleEnd="199995" MonolithOffset="1921024"
+          MonolithLength="204800" SampleRate="44100"/>
+  <sample Root="77" LoKey="75" HiKey="77" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/susvib/Sum_SHTrumpet_susvib_F4_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.65587" LowerVelocityXFade="0"
+          SampleStartMod="50000" LoopEnabled="1" LoopEnd="194651" LoopStart="81467"
+          LoopXFade="15000" MonolithOffset="2125824" MonolithLength="249856"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="66" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Trumpet/susvib/Sum_SHTrumpet_susvib_G3_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.32901" LowerVelocityXFade="0"
+          SampleStartMod="50000" LoopEnabled="1" LoopEnd="165859" LoopStart="89907"
+          LoopXFade="15000" MonolithOffset="2375680" MonolithLength="217088"
+          SampleRate="44100"/>
+</samplemap>
