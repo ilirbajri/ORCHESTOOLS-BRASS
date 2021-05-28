@@ -15,5 +15,4 @@ Hise is released under GPLv3 open source license. VSCO 2 CE sample library by: V
 
 VST3 is a trademark of Steinberg Media Technologies GmbH
 
-OT STRINGS 0
-
+![OT BRASS 1](https://user-images.githubusercontent.com/44969792/119939647-75f23180-bf8e-11eb-9054-da059df95598.png)
